@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35425.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "RE4_DCT_TOOL", "RE4_DCT_TOOL\RE4_DCT_TOOL.shproj", "{7E3CEBCB-2EED-46CA-950C-516C7F657116}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RE4_DCT_TOOL_UHD", "RE4_DCT_TOOL_UHD\RE4_DCT_TOOL_UHD.csproj", "{8F04BC61-5111-4227-BBAA-D85D05E6DCCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RE4_DCT_TOOL_PS4NS", "RE4_DCT_TOOL_PS4NS\RE4_DCT_TOOL_PS4NS.csproj", "{50AC52D8-6E82-485F-AC10-C2A6D6AD2201}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		RE4_DCT_TOOL\RE4_DCT_TOOL.projitems*{50ac52d8-6e82-485f-ac10-c2a6d6ad2201}*SharedItemsImports = 4
+		RE4_DCT_TOOL\RE4_DCT_TOOL.projitems*{7e3cebcb-2eed-46ca-950c-516c7f657116}*SharedItemsImports = 13
+		RE4_DCT_TOOL\RE4_DCT_TOOL.projitems*{8f04bc61-5111-4227-bbaa-d85d05e6dccc}*SharedItemsImports = 4
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F04BC61-5111-4227-BBAA-D85D05E6DCCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F04BC61-5111-4227-BBAA-D85D05E6DCCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F04BC61-5111-4227-BBAA-D85D05E6DCCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F04BC61-5111-4227-BBAA-D85D05E6DCCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50AC52D8-6E82-485F-AC10-C2A6D6AD2201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50AC52D8-6E82-485F-AC10-C2A6D6AD2201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50AC52D8-6E82-485F-AC10-C2A6D6AD2201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50AC52D8-6E82-485F-AC10-C2A6D6AD2201}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04B0FED6-0D74-4D8A-A0B6-132CCED45205}
+	EndGlobalSection
+EndGlobal
